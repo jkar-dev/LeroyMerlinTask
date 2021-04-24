@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LeroyMerlinTask</string>
+    <string name="product_search">Поиск товаров</string>
+    <string name="search">Поиск</string>
+    <string name="recently_viewed">Недавно просмотренные</string>
+    <string name="limited_offer">Ограниченное предложение</string>
+    <string name="best_price">Лучшая цена</string>
+    <string name="catalog">Каталог</string>
+    <string name="see_all">Смотреть всё</string>
+</resources>
